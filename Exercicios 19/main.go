@@ -1,7 +1,7 @@
 package main
 
 import (
-	"calc"
+	"https://github.com/MaiconGavino/practicing_in_golang/tree/master/Exercicios%2019/calc/calc"
 	"fmt"
 )
 
